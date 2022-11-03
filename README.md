@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-num-bytes@deno/mod.js';
+import FLOAT32_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-num-bytes@v0.0.8-deno/mod.js';
 ```
 
 #### FLOAT32_NUM_BYTES
@@ -56,7 +56,7 @@ var bool = ( FLOAT32_NUM_BYTES === 4 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-num-bytes@deno/mod.js';
+import FLOAT32_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-num-bytes@v0.0.8-deno/mod.js';
 
 console.log( FLOAT32_NUM_BYTES );
 // => 4
